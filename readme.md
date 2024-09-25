@@ -3,9 +3,10 @@
 [![Python Version](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/)
 [![Version](https://img.shields.io/badge/Version-0.1-a)](https://github.com/Maxplayz7566/Maxio-Uptime-Bot)
 
+Maxio Uptime Bot is a powerful Discord bot designed to help monitor and track the uptime of your servers, websites, and applications. Whether you’re using it for gaming servers, web services, or anything else, Maxio provides a flexible, reliable, and real-time solution for all your uptime monitoring needs.
+
 ## Table of Contents
 
-- [Project Description](#project-description)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -13,9 +14,6 @@
 - [Contributing](#contributing)
 - [License](#license)
 
-## Project Description
-
-Maxio Uptime Bot is a powerful Discord bot designed to help monitor and track the uptime of your servers, websites, and applications. Whether you’re using it for gaming servers, web services, or anything else, Maxio provides a flexible, reliable, and real-time solution for all your uptime monitoring needs.
 ## Features
 
 - Bot or Webhook Setup: Choose between using a standard Discord bot or set up a webhook, depending on your preference. Both options allow for easy integration and seamless uptime monitoring.
