@@ -2,3 +2,4 @@ platformdirs
 requests
 discord.py
 pyyaml
+mcstatus
