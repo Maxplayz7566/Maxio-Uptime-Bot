@@ -58,7 +58,7 @@ Maxio Uptime Bot is a powerful Discord bot designed to help monitor and track th
 >*Note:* soon™️
 
 ## License
->*Note:* soon™️
+Read LICENSE
 
 ## Configuration
 >*Note:* soon™️
